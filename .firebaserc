@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "testing-sqa113-386b7"
+    "default": "testing-sqa113-386b7",
+    "staging": "staging-lab11",
+    "prod": "production-lab11"
   }
+  
 }
